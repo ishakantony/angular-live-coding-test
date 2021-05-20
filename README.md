@@ -54,3 +54,8 @@
 - If you are following a clean code principle
 - If you are following general convention in coding with `typescript`
 - If you leverage heavily on `rxjs` to do all logics
+
+## Finally
+
+- Push all the codes into the your remote repository
+- Make sure the repository is public
