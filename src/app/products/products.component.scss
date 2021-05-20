@@ -1,0 +1,14 @@
+.container {
+  width: 100%;
+  max-width: 1100px;
+  margin: 0 auto;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.inner-container {
+  display: flex;
+  gap: 1rem;
+}

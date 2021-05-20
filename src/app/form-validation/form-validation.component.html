@@ -1,0 +1,19 @@
+<div class="container">
+  <mat-card>
+    <h1>Form Validation Test</h1>
+    <mat-divider></mat-divider>
+    <form [formGroup]="formGroup" (ngSubmit)="save()">
+      <div style="padding: 1rem 0; width: 500px">
+        <mat-form-field appearance="outline" style="width: 100%">
+          <mat-label>Enter your email</mat-label>
+          <input
+            matInput
+            placeholder="me@ishakantony.com"
+            formControlName="email"
+          />
+        </mat-form-field>
+        <button mat-raised-button color="accent">Submit</button>
+      </div>
+    </form>
+  </mat-card>
+</div>
