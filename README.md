@@ -10,7 +10,7 @@
 - Install dependencies
 - To start development use `npm start`
 
-#### First Test - Form Validation
+#### First Test - Form Validation (10 Minutes)
 
 - Make sure that you are in `main` branch
 - Create a new branch and name it `1-form-validation`
@@ -22,7 +22,7 @@
 - Upon valid submission, display the email in a dialog using `mat-dialog`
 - Commit your codes after done
 
-#### Second Test - Table
+#### Second Test - Table (10 Minutes)
 
 - Make sure that you are in `main` branch
 - Create a new branch and name it `2-table`
@@ -39,7 +39,7 @@
 - Implement sorting and pagination for the table
 - Commit your codes after done
 
-#### Third Test - Product Details
+#### Third Test - Product Details (10 Minutes)
 
 - Make sure that you are in `main` branch
 - Create a new branch and name it `3-product-details`
