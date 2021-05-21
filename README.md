@@ -2,7 +2,7 @@
 
 ## Follow this steps
 
-#### Application Setup
+#### Application Setup (DO THIS FIRST)
 
 - Fork this repository into your **GitHub** account (You can create a **GitHub** account if you don't have one)
 - Clone the repository from **your repository**
@@ -20,6 +20,7 @@
 - Add error message using `mat-error` under the `input` field
 - Disable submit `button` when the form is not valid
 - Upon valid submission, display the email in a dialog using `mat-dialog`
+- Commit your codes after done
 
 #### Second Test - Table
 
@@ -36,6 +37,7 @@
   - Search will run only when the user stop typing (debounce for 200ms)
   - If user search for the same term as the previous search, no need to re-filter since the result would be the same
 - Implement sorting and pagination for the table
+- Commit your codes after done
 
 #### Third Test - Product Details
 
@@ -48,6 +50,7 @@
 - Add a `button` with text `view` in the right card
 - Create a new route for `/products/{id}`
 - When the `button` is clicked, it should navigate to the new route and display the information about the product (film) in the new page
+- Commit your codes after done
 
 ## Bonus points
 
